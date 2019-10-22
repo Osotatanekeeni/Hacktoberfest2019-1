@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Tatane Kari
+- Photo: N/A
+- Location: Gaborone, Botswana
+- Bio: Computer Science Student
+- Github: https://github.com/Osotatanekeeni
